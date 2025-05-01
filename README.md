@@ -1,7 +1,5 @@
 # Fine-Tuned-Medical-QA-model
 
-```
-# Fine-Tuned Medical QA Model  
 
 ## Overview  
 This repository contains a fine-tuned version of EleutherAI's Pythia-410m model for medical question answering. The model is trained on [Malikeh1375/medical-question-answering-datasets](https://huggingface.co/datasets/Malikeh1375/medical-question-answering-datasets) to generate doctor-style responses to patient queries.  
